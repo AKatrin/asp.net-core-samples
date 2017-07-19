@@ -1,0 +1,9 @@
+D:\AppAngular\MyAppAngular\MyAppAngular\bin\Debug\netcoreapp1.1\MyAppAngular.deps.json
+D:\AppAngular\MyAppAngular\MyAppAngular\bin\Debug\netcoreapp1.1\MyAppAngular.runtimeconfig.json
+D:\AppAngular\MyAppAngular\MyAppAngular\bin\Debug\netcoreapp1.1\MyAppAngular.runtimeconfig.dev.json
+D:\AppAngular\MyAppAngular\MyAppAngular\bin\Debug\netcoreapp1.1\MyAppAngular.dll
+D:\AppAngular\MyAppAngular\MyAppAngular\bin\Debug\netcoreapp1.1\MyAppAngular.pdb
+D:\AppAngular\MyAppAngular\MyAppAngular\obj\Debug\netcoreapp1.1\MyAppAngular.csprojResolveAssemblyReference.cache
+D:\AppAngular\MyAppAngular\MyAppAngular\obj\Debug\netcoreapp1.1\MyAppAngular.AssemblyInfo.cs
+D:\AppAngular\MyAppAngular\MyAppAngular\obj\Debug\netcoreapp1.1\MyAppAngular.dll
+D:\AppAngular\MyAppAngular\MyAppAngular\obj\Debug\netcoreapp1.1\MyAppAngular.pdb
